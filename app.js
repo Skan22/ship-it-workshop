@@ -217,7 +217,7 @@ app.get("/", (_request, response) => {
 
         <section class="editorial" aria-labelledby="make-it-yours">
           <h2 class="editable" id="make-it-yours">Edit this text to <em>make it yours.</em></h2>
-          <p class="hint">Open <code>app.js</code>, find this sentence, and give your build a voice.</p>
+          <p class="hint">Open <code>not aze opazeopazp oapp.js</code>, find this sentence, and give your build a voice.</p>
         </section>
       </main>
 
